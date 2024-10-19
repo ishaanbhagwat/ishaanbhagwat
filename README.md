@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, I'm Ishaan 👋
 
-<!--
-**ishaanbhagwat/ishaanbhagwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Some projects I have built:
+- **Spring-based Java web application** that visualizes running activity data from XML files.
+- Next.js application
+- MLP Neural Net for Image classification
+- CNN from Deep Learning
+- RAG application to talk about uploaded pdf gil
+- AI Agent wrapper
+- Sudoku Solver in C++
+- Exploring opportunities in **Enterprise Strategy** and **Cloud Computing Optimization**.
 
-Here are some ideas to get you started:
+### 🌟 Work Experience
+- **Optimizing Cloud Computing at a Startup**: Conducted R&D to improve core cloud compute engine's efficiency by 11x using a Kubernetes cluster, reducing server costs and compute time significantly.
+- **Web Application Development**: Developed profile components for a consulting firm's bench management system that enabled leadership to match software consultants to the right software engineering projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Skills & Technologies
+- **Programming Languages**: Java, Python, JavaScript, and C++
+- **Frameworks**: Spring, React, Django, Kubernetes, and Tensorflow
+- **Databases**: MySQL, MongoDB, PostgreSQL, Redis, SQLite, and Blob Storage
+- **Technologies**: AWS, Azure Cloud, Docker, Git, Prometheus + Grafana Observability
+- **Business Strategy**: Enterprise Strategy, Product Development, Market Research
+
+### 📫 Let's Connect!
+- **LinkedIn**: [Ishaan Bhagwat](https://www.linkedin.com/in/ishaanbhagwat)
+- **Personal Website**: [ishaanbhagwat.com](www.ishaanbhagwat.com)
+- **Email**: a.ishaanbhagwat@gmail.com
+---
+
+_“What you see in others, exists in you.”_ - _Instagram comment_
+
