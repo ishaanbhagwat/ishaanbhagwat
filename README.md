@@ -1,5 +1,10 @@
 ## Hi there, I'm Ishaan 👋
 
+### 📫 Connect with me here!
+- **LinkedIn**: [Ishaan Bhagwat](https://www.linkedin.com/in/ishaanbhagwat)
+- **Personal Website**: [ishaanbhagwat.com](www.ishaanbhagwat.com)
+- **Email**: a.ishaanbhagwat@gmail.com
+
 ### 🔧 Some projects I have built:
 - **Spring-based Java web application** that visualizes running activity data from XML files.
 - Next.js application
@@ -20,11 +25,6 @@
 - **Databases**: MySQL, MongoDB, PostgreSQL, Redis, SQLite, and Blob Storage
 - **Technologies**: AWS, Azure Cloud, Docker, Git, Prometheus + Grafana Observability
 - **Business Strategy**: Enterprise Strategy, Product Development, Market Research
-
-### 📫 Let's Connect!
-- **LinkedIn**: [Ishaan Bhagwat](https://www.linkedin.com/in/ishaanbhagwat)
-- **Personal Website**: [ishaanbhagwat.com](www.ishaanbhagwat.com)
-- **Email**: a.ishaanbhagwat@gmail.com
 ---
 
 _“What you see in others, exists in you.”_ - _Instagram comment_
