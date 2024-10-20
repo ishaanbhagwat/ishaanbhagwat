@@ -13,7 +13,6 @@
 - RAG application to talk about uploaded pdf gil
 - AI Agent wrapper
 - Sudoku Solver in C++
-- Exploring opportunities in **Enterprise Strategy** and **Cloud Computing Optimization**.
 
 ### 🌟 Work Experience
 - **Optimizing Cloud Computing at a Startup**: Conducted R&D to improve core cloud compute engine's efficiency by 11x using a Kubernetes cluster, reducing server costs and compute time significantly.
