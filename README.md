@@ -15,7 +15,7 @@
 - Sudoku Solver in C++
 
 ### 🌟 Work Experience
-- **Optimizing Cloud Computing at a Startup**: Conducted R&D to improve core cloud compute engine's efficiency by 11x using a Kubernetes cluster, reducing server costs and compute time significantly.
+- **Optimize Computing Service at a Startup**: Conducted R&D to improve the core compute engine's efficiency by 11x using a Kubernetes cluster, significantly reducing server costs and compute time.
 - **Web Application Development**: Developed profile components for a consulting firm's bench management system that enabled leadership to match software consultants to the right software engineering projects.
 
 ### 🌱 Skills & Technologies
