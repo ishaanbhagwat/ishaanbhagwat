@@ -7,7 +7,7 @@
 
 ### 🔧 Some projects I have built:
 - **Spring-based Java web application** that visualizes running activity data from XML files.
-- [**PDF RAG ChatBot**](www.github.com/ishaanbhagwat/pdf-rag-ap](https://github.com/ishaanbhagwat/fastAPI-rag-server)
+- [**PDF RAG ChatBot**](https://github.com/ishaanbhagwat/fastAPI-rag-server)
 - MLP Neural Net for Image classification
 - CNN from Deep Learning
 - RAG application to talk about uploaded pdf gil
