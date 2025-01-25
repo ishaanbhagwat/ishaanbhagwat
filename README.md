@@ -6,7 +6,7 @@
 - **Email**: a.ishaanbhagwat@gmail.com
 
 ### 🔧 Some projects I have built:
-- [Anonymous peer evaluations](https://github.com/ishaanbhagwat/peer-eval-tool): Spring Framework + Java Web application to clone my capstone course's evaluation system.
+- [Anonymous peer evaluation tool](https://github.com/ishaanbhagwat/peer-eval-tool): Spring Framework + Java Web application to clone my capstone course's evaluation system.
 - [**PDF RAG ChatBot**](https://github.com/ishaanbhagwat/fastAPI-rag-server): Langchain + OpenRouter + OpenAI + FastAPI for interacting with user-generated PDF files.
 - [Rust SMTP Mail Server](https://github.com/ishaanbhagwat/rust-smtp-mail-server): Built to learn memory-borrowing architecture of Rust + Async Network Programming.
 - [C++ Web Server](https://github.com/ishaanbhagwat/cpp-mt-http-server): Always wanted to learn how web servers work! It uses thread pooling for handling multiple connections.
