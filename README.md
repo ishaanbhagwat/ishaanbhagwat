@@ -6,12 +6,12 @@
 - **Email**: a.ishaanbhagwat@gmail.com
 
 ### 🔧 Some projects I have built:
-- **Spring-based Java web application** that visualizes running activity data from XML files.
+- [**Spring-based Java web application** for anonymous peer evaluations](https://github.com/ishaanbhagwat/peer-eval-tool)
 - [**PDF RAG ChatBot**](https://github.com/ishaanbhagwat/fastAPI-rag-server)
-- MLP Neural Net for Image classification
-- CNN from Deep Learning
-- RAG application to talk about uploaded pdf gil
-- AI Agent wrapper
+- [Rust SMTP Mail Server](https://github.com/ishaanbhagwat/rust-smtp-mail-server)
+- [C++ Web Server with State Management](https://github.com/ishaanbhagwat/cpp-mt-http-server)
+- Alex Net Implementation
+- [.NET Real-Time Chatting Server](https://github.com/ishaanbhagwat/real-time-chat-app)
 - Sudoku Solver in C++
 
 ### 🌟 Work Experience
