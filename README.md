@@ -2,7 +2,7 @@
 
 ### 📫 Connect with me here!
 - **LinkedIn**: [Ishaan Bhagwat](https://www.linkedin.com/in/ishaanbhagwat)
-- **Personal Website**: [www.ishaanbhagwat.com](www.ishaanbhagwat.com)
+- **Personal Website**: [www.ishaanbhagwat.com](https://www.ishaanbhagwat.com)
 - **Email**: a.ishaanbhagwat@gmail.com
 
 ### 🔧 Some projects I have built:
