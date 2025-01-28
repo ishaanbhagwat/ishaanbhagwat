@@ -15,8 +15,10 @@
 - Sudoku Solver in C++
 
 ### 🌟 Work Experience
-- **Optimize Computing Service at a Startup**: Conducted R&D to improve the core compute engine's efficiency by 11x using a Kubernetes cluster, significantly reducing server costs and compute time.
-- **Web Application Development**: Developed profile components for a consulting firm's bench management system that enabled leadership to match software consultants to the right software engineering projects.
+#### Rubiscape [Read more about my work](https://www.ishaanbhagwat.com)
+_Optimized ML task execution service at a Data Engineering Startup_: Conducted R&D to improve the distributed ML task execution engine's efficiency by 11x by streamlining interactions between the kernel and task processes using a Kubernetes cluster for job management, resulting in a significantly reduction of server costs and compute time.
+#### Headstorm LLC (Sophomore Summer)
+_React + GraphQL frontend application_: Developed profile components for a consulting firm's bench management system that enabled leadership to match software consultants to the right software engineering projects.
 
 ### 🌱 Skills & Technologies
 - **Programming Languages**: Java, Python, JavaScript, and C++
@@ -26,5 +28,5 @@
 - **Business Strategy**: Enterprise Strategy, Product Development, Market Research
 ---
 
-_“What you see in others, exists in you.”_ - _Instagram comment_
+_“What you see in others, exists in you.”_ - _Found this quote on Instagram, but it is profound_
 
