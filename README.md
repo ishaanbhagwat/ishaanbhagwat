@@ -15,10 +15,10 @@
 - Sudoku Solver in C++
 
 ### 🌟 Work Experience
-#### Rubiscape [Read more about my work](https://www.ishaanbhagwat.com)
-_Optimized ML task execution service at a Data Engineering Startup_: Conducted R&D to improve the distributed ML task execution engine's efficiency by 11x by streamlining interactions between the kernel and task processes using a Kubernetes cluster for job management, resulting in a significantly reduction of server costs and compute time.
-#### Headstorm LLC (Sophomore Summer)
-_React + GraphQL frontend application_: Developed profile components for a consulting firm's bench management system that enabled leadership to match software consultants to the right software engineering projects.
+#### 1. Rubiscape ([Read more about my work](https://www.ishaanbhagwat.com))
+**Optimized ML task execution service at a Data Engineering startup**: Conducted R&D to improve the distributed ML task execution engine's efficiency by 11x by streamlining interactions between the kernel and task processes using a Kubernetes cluster for job management, resulting in a significantly reduction of server costs and compute time.
+#### 2. Headstorm LLC (Sophomore Summer)
+**React + GraphQL frontend application**: Developed profile components for a consulting firm's bench management system that enabled leadership to match software consultants to the right software engineering projects.
 
 ### 🌱 Skills & Technologies
 - **Programming Languages**: Java, Python, JavaScript, and C++
