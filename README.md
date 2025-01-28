@@ -11,7 +11,7 @@
 - [Rust SMTP Mail Server](https://github.com/ishaanbhagwat/rust-smtp-mail-server): Built to learn memory-borrowing architecture of Rust + Async Network Programming.
 - [C++ Web Server](https://github.com/ishaanbhagwat/cpp-mt-http-server): Always wanted to learn how web servers work! It uses thread pooling for handling multiple connections.
 - [Alex Net Implementation](https://github.com/ishaanbhagwat/alexnet-cnn-impl): Recreating the **Ground-Breaking** AlexNet Research Paper.
-- [.NET Real-Time Chatting Server](https://github.com/ishaanbhagwat/real-time-chat-app): RSignal + Redis was Distributed Real-Time Messaging.
+- [.NET Real-Time Chatting Server](https://github.com/ishaanbhagwat/real-time-chat-app): RSignal + Redis for Distributed Real-Time Messaging.
 - Sudoku Solver in C++
 
 ### 🌟 Work Experience
